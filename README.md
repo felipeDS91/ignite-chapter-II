@@ -1,46 +1,122 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="Layout" src="https://res.cloudinary.com/dixtjpk8s/image/upload/v1617724458/Projects/ignite-reactJS-chapter_II_xye5ao.png" width="600px">
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  Rocketseat - Ignite - Chapter II
+</h1>
 
-## Available Scripts
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/felipeDS91/ignite-chapter-II">
 
-In the project directory, you can run:
+  <a href="https://www.linkedin.com/in/felipe-douglas-dev/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-felipe%20douglas-%235bbf4a">
+  </a>
 
-### `yarn start`
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipeDS91/ignite-chapter-II">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://github.com/FelipeDS91/whatsapp-web/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FelipeDS91/ignite-chapter-II">
+  </a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <a href="https://github.com/FelipeDS91/whatsapp-web/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/FelipeDS91/ignite-chapter-II">
+  </a>
 
-### `yarn test`
+  <img alt="GitHub" src="https://img.shields.io/github/license/FelipeDS91/ignite-chapter-II">
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-### `yarn build`
+</br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 👨🏻‍💻 About the project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is a ReactJS web client created at Rocketseat Ignite course.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### Features
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Create transaction
+- List transactions
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center">
+  <img
+    alt="Logo"
+    src="https://res.cloudinary.com/dixtjpk8s/image/upload/v1617724524/Projects/ignite-reactJS-chapter-II-pt-II_fmk8u9.png"
+  />
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🚀 Technologies
 
-## Learn More
+Technologies that I used to develop this web client
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [ReactJS](https://reactjs.org/)
+- [React Router DOM](https://reacttraining.com/react-router/)
+- [Context API](https://reactjs.org/docs/context.html)
+- [Styled Components](https://styled-components.com/)
+- [Polished](https://github.com/styled-components/polished)
+- [Axios](https://github.com/axios/axios)
+- [Miragejs](https://miragejs.com/tutorial/intro/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 💻 Getting started
+
+**Clone the project and access the folder**
+
+```bash
+$ git clone https://github.com/felipeDS91/ignite-chapter-II.git && cd ignite-chapter-II
+```
+
+**Follow the steps below**
+
+```bash
+# Install the dependencies
+$ yarn
+
+# Start the client
+$ yarn start
+```
+
+## 🤔 How to contribute
+
+**Make a fork of this repository**
+
+```bash
+# Fork using GitHub official command line
+# If you don't have the GitHub CLI, use the web site to do that.
+
+$ gh repo fork felipeDS91/ignite-chapter-II
+```
+
+**Follow the steps below**
+
+```bash
+# Clone your fork
+$ git clone your-fork-url && cd ignite-chapter-II
+
+# Create a branch with your feature
+$ git checkout -b my-feature
+
+# Make the commit with your changes
+$ git commit -m 'feat: My new feature'
+
+# Send the code to your remote branch
+$ git push origin my-feature
+```
+
+After your pull request is merged, you can delete your branch
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with 💜&nbsp; by Felipe Douglas 👋 [See my linkedin](https://www.linkedin.com/in/felipe-douglas-dev/)
